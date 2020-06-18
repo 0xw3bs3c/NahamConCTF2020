@@ -27,3 +27,9 @@ $ xortool-xor -f homework -s "ZA\x99\xbb" -n > xorred_hw
 Now you can simply open it in Word or Libre Office or use binwalk to extract and run a grep you will get the flag.
 
 **flag:** : ```flag{xor_is_not_for_security}```
+
+<hr>
+
+Also read:
+
+1. https://github.com/W3rni0/NahamCon_CTF_2020#docxor
